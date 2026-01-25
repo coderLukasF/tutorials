@@ -1,0 +1,42 @@
+{
+    "_id": "lua",
+    "title": "Lua",
+    "description": "Learn the Lua programming language and try it out with our free editor!",
+    "created": "2026-01-19",
+    "updated": "2025-01-19",
+    "cover": "",
+    "index": [
+        {
+            "title": "Introduction",
+            "path": "introduction",
+            "links": [
+                {
+                    "title": "About Lua",
+                    "path": "about-lua"
+                },
+                {
+                    "title": "Installation on Windows, Mac, and Linux.",
+                    "path": "installation"
+                }
+            ]
+        },
+        {
+            "title": "Basics",
+            "path": "basics",
+            "links": [
+                {
+                    "title": "Printing",
+                    "path": "printing"
+                },
+                {
+                    "title": "Variables and Data Types",
+                    "path": "variables-and-data-types"
+                },
+                {
+                    "title": "Functions",
+                    "path": "functions"
+                }
+            ]
+        }
+    ]
+}
