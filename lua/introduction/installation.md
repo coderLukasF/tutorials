@@ -53,7 +53,7 @@ You should explicitly select one to install.
 E: Package 'lua' has no installation candidate
 ```
 
-Then simply install the latest version you see. For example, the latest version on the output I have if lua5.4, so I would run the following command:
+Then simply install the latest version you see. For example, the latest version on the output I have is lua5.4, so I would run the following command:
 
 ```shell
 sudo apt install lua5.4
